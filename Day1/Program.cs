@@ -8,9 +8,7 @@ namespace ConsoleIn
         {
             // use the console to make a output
             Console.WriteLine("Hello world!");
-
             string ?input = Console.ReadLine();
-
             Console.WriteLine(input);
         }
     }
