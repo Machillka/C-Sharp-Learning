@@ -1,0 +1,14 @@
+D:\LanguageLearning\CSharp\Day2\obj\Debug\net7.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LanguageLearning\CSharp\Day2\obj\Debug\net7.0\Day2.AssemblyInfoInputs.cache
+D:\LanguageLearning\CSharp\Day2\obj\Debug\net7.0\Day2.AssemblyInfo.cs
+D:\LanguageLearning\CSharp\Day2\obj\Debug\net7.0\Day2.csproj.CoreCompileInputs.cache
+D:\LanguageLearning\CSharp\Day2\bin\Debug\net7.0\Day2.exe
+D:\LanguageLearning\CSharp\Day2\bin\Debug\net7.0\Day2.deps.json
+D:\LanguageLearning\CSharp\Day2\bin\Debug\net7.0\Day2.runtimeconfig.json
+D:\LanguageLearning\CSharp\Day2\bin\Debug\net7.0\Day2.dll
+D:\LanguageLearning\CSharp\Day2\bin\Debug\net7.0\Day2.pdb
+D:\LanguageLearning\CSharp\Day2\obj\Debug\net7.0\Day2.dll
+D:\LanguageLearning\CSharp\Day2\obj\Debug\net7.0\refint\Day2.dll
+D:\LanguageLearning\CSharp\Day2\obj\Debug\net7.0\Day2.pdb
+D:\LanguageLearning\CSharp\Day2\obj\Debug\net7.0\Day2.genruntimeconfig.cache
+D:\LanguageLearning\CSharp\Day2\obj\Debug\net7.0\ref\Day2.dll
