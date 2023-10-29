@@ -1,0 +1,14 @@
+D:\LanguageLearning\CSharp\Day3\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\LanguageLearning\CSharp\Day3\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\LanguageLearning\CSharp\Day3\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\LanguageLearning\CSharp\Day3\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\LanguageLearning\CSharp\Day3\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\LanguageLearning\CSharp\Day3\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\LanguageLearning\CSharp\Day3\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\LanguageLearning\CSharp\Day3\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\LanguageLearning\CSharp\Day3\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\LanguageLearning\CSharp\Day3\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\LanguageLearning\CSharp\Day3\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\LanguageLearning\CSharp\Day3\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\LanguageLearning\CSharp\Day3\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\LanguageLearning\CSharp\Day3\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
