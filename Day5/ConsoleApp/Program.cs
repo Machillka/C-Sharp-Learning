@@ -10,7 +10,10 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             
+=======
+>>>>>>> ef41c7f (update)
         }
     }
 }
