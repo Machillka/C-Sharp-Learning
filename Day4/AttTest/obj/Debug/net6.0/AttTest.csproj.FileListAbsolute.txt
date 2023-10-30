@@ -1,0 +1,14 @@
+D:\LanguageLearning\CSharp\Day4\AttTest\obj\Debug\net6.0\AttTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\LanguageLearning\CSharp\Day4\AttTest\obj\Debug\net6.0\AttTest.AssemblyInfoInputs.cache
+D:\LanguageLearning\CSharp\Day4\AttTest\obj\Debug\net6.0\AttTest.AssemblyInfo.cs
+D:\LanguageLearning\CSharp\Day4\AttTest\obj\Debug\net6.0\AttTest.csproj.CoreCompileInputs.cache
+D:\LanguageLearning\CSharp\Day4\AttTest\bin\Debug\net6.0\AttTest.exe
+D:\LanguageLearning\CSharp\Day4\AttTest\bin\Debug\net6.0\AttTest.deps.json
+D:\LanguageLearning\CSharp\Day4\AttTest\bin\Debug\net6.0\AttTest.runtimeconfig.json
+D:\LanguageLearning\CSharp\Day4\AttTest\bin\Debug\net6.0\AttTest.dll
+D:\LanguageLearning\CSharp\Day4\AttTest\bin\Debug\net6.0\AttTest.pdb
+D:\LanguageLearning\CSharp\Day4\AttTest\obj\Debug\net6.0\AttTest.dll
+D:\LanguageLearning\CSharp\Day4\AttTest\obj\Debug\net6.0\refint\AttTest.dll
+D:\LanguageLearning\CSharp\Day4\AttTest\obj\Debug\net6.0\AttTest.pdb
+D:\LanguageLearning\CSharp\Day4\AttTest\obj\Debug\net6.0\AttTest.genruntimeconfig.cache
+D:\LanguageLearning\CSharp\Day4\AttTest\obj\Debug\net6.0\ref\AttTest.dll

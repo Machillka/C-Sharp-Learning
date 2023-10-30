@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttTest", "AttTest.csproj", "{7ACD4940-73F1-4CC9-BCB9-8D9F68C563FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ACD4940-73F1-4CC9-BCB9-8D9F68C563FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACD4940-73F1-4CC9-BCB9-8D9F68C563FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACD4940-73F1-4CC9-BCB9-8D9F68C563FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACD4940-73F1-4CC9-BCB9-8D9F68C563FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FE621EC-EF0A-411A-873F-C2EC0F48A8F1}
+	EndGlobalSection
+EndGlobal
