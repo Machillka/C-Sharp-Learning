@@ -1,0 +1,10 @@
+D:\LanguageLearning\CSharp\Day5\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\LanguageLearning\CSharp\Day5\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\LanguageLearning\CSharp\Day5\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\LanguageLearning\CSharp\Day5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\LanguageLearning\CSharp\Day5\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\LanguageLearning\CSharp\Day5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\LanguageLearning\CSharp\Day5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\LanguageLearning\CSharp\Day5\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\LanguageLearning\CSharp\Day5\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+D:\LanguageLearning\CSharp\Day5\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
