@@ -1,0 +1,6 @@
+﻿// Delegate
+
+namespace ConsoleApp
+{
+    class 
+}
