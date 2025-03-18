@@ -40,16 +40,16 @@ class Async
 
         // 逐个执行每一个 Cook 方法, 总时间是所有 Cook 方法的时间之和
 
-        // int index = 0;
-        // foreach (var material in materials)
-        // {
-        //     await Cook(material);
-        //     Console.WriteLine("This is {0}", index);
-        //     index += 1;
-        // }
+        int index = 0;
+        foreach (var material in materials)
+        {
+            await Cook(material);
+            Console.WriteLine("This is {0}", index);
+            index += 1;
+        }
 
-        // await Cook(materials[0]);
-        // await Cook(materials[1]);
+        await Cook(materials[0]);
+        await Cook(materials[1]);
 
         Task task1 = Task.Run(async () =>
         {
